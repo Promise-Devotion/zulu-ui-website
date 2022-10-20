@@ -1,0 +1,1 @@
+import{_ as r,o,c as s,d as c,a as d}from"./index.fdd69dd8.js";const n={name:"Detail",data(){return{}},methods:{backdetail(){this.$router.push("/")}}};function l(i,e,u,p,_,t){return o(),s("div",null,[c("detail "),d("button",{onClick:e[0]||(e[0]=(...a)=>t.backdetail&&t.backdetail(...a))},"\u56DE\u9996\u9875")])}const k=r(n,[["render",l]]);export{k as default};

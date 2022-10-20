@@ -1,0 +1,12 @@
+import{_ as t,o as e,c as o,x as c}from"./index.fdd69dd8.js";const s={},n={class:"markdown-body"},r=c(`<h1>\u5F00\u59CB\u4F7F\u7528</h1><p>\u8BF7\u5148<a href="#/introduction/install">\u5B89\u88C5</a>\u672C\u7EC4\u4EF6\u5E93</p><p> \u7136\u540E\u5728\u4F60\u7684\u4EE3\u7801\u4E2D\u52A0\u5165\u4E0B\u9762\u7684\u4EE3\u7801 </p><p><pre><code>import { Button } from &quot;zulu-vue-ui&quot;;</code></pre></p><p>\u5C31\u53EF\u4EE5\u4F7F\u7528zulu\u63D0\u4F9B\u7684\u7EC4\u4EF6\u4E86</p><h2>Vue\u5355\u4F8B</h2><p><pre><code>&lt;template&gt;
+  &lt;div&gt;
+    &lt;Switch v-model:value=&quot;switchValue&quot; /&gt;
+  &lt;/div&gt;
+&lt;/template&gt;
+&lt;script lang=&quot;ts&quot; setup&gt;
+  import { ref } from &quot;vue&quot;;
+  import Switch from &quot;../lib/Switch.vue&quot;;
+  const switchValue = ref(false);
+&lt;/script&gt;
+&lt;style lang=&quot;scss&quot; scoped&gt;&lt;/style&gt;
+</code></pre></p><p>\u8BF7\u5F00\u59CB<a href="#/doc">\u4F7F\u7528</a>\u5427</p>`,8),l=[r];function u(p,a){return e(),o("article",n,l)}const d=t(s,[["render",u]]);export{d as default};
