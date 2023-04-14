@@ -1,0 +1,2 @@
+import{f as a,k as r,o as l,c,i as p,n as _,u as m}from"./index-166d20f2.js";const d=a({__name:"Button",props:{theme:{type:String,default:"button"},size:{type:String,default:"normal"}},setup(s){const n=s,{size:e,theme:t}=n,o=r(()=>({[`zulu-size-${e}`]:e,[`zulu-theme-${t}`]:t}));return(u,i)=>(l(),c("button",{class:_(["zulu-button",m(o)])},[p(u.$slots,"default")],2))}});export{d as _};
+//# sourceMappingURL=Button.vue_vue_type_style_index_0_lang-eb938b7c.js.map

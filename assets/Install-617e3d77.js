@@ -1,0 +1,2 @@
+import{_ as t,o as n,c as o,a as e,d as s}from"./index-166d20f2.js";const l={},c={class:"markdown-body"},_=e("h1",null,"安装",-1),a=e("p",null,"在项目主目录下打开终端，执行以下命令：",-1),u=e("p",null,[e("pre",null,[e("code",null,"npm install zulu-vue-ui")])],-1),d=e("p",null,"或",-1),r=e("p",null,[e("pre",null,[e("code",null,"yarn add zulu-vue-ui")])],-1),i=e("p",null,[s("下一节："),e("a",{href:"#/introduction/get-start"},"开始使用")],-1),p=[_,a,u,d,r,i];function h(f,m){return n(),o("article",c,p)}const k=t(l,[["render",h]]);export{k as default};
+//# sourceMappingURL=Install-617e3d77.js.map
